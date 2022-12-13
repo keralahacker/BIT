@@ -24,7 +24,7 @@ note's andďfile URLS
 * [haveibeenpwned](haveibeenpwned.com)
 * [Burpsuite](https://www.kali.org/tools/burpsuite/)
 * [Openvas](https://github.com/keralahacker/BIT/blob/main/OpenVAS.md)
-* * Acuentix
+* [Acuentix]()
 * [dig](https://www.kali.org/tools/bind9/#dig)
 * [DnsRecon](https://www.kali.org/tools/dnsrecon/)
 * [DnsEnum](https://www.kali.org/tools/dnsenum/)
