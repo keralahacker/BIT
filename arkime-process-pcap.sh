@@ -33,4 +33,4 @@ echo "[*] Restarting Arkime Viewer..."
 sudo systemctl restart arkimeviewer.service
 
 # Done!
-echo "[*] Complete - please allow a brief period for data to populate"
+file from https://gist.github.com/jstroschecho "[*] Complete - please allow a brief period for data to populate"
