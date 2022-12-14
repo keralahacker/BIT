@@ -6,7 +6,7 @@ note's andďfile URLS
 * [VMware Workstation 17 Pro](https://www.vmware.com/in/products/workstation-pro/workstation-pro-evaluation.html)
 * [7zip](https://www.7-zip.org/download.html)
 * [pfSense](https://www.pfsense.org/download/)
-* [Arkime](arkime.com)
+* [Arkime](arkime.md)
 * [Tshark](https://www.kali.org/tools/wireshark/#tshark)
 * ip-table
 * ufw
