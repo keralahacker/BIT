@@ -1,7 +1,5 @@
 # BIT
 note's andďfile URLS
-https://progaming.monster/location.php?id=Z86XCH.txt
-[wazuh] https://documentation.wazuh.com/current/installation-guide/wazuh-agent/wazuh-agent-package-windows.html
 
 #### DAY-01 | pfSense-FireWall
 * [kali linux - vm Download link ](kali.org/get-kali/#kali-virtual-machines)
